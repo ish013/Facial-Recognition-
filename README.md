@@ -16,14 +16,9 @@ This project is a **facial recognition system** that detects and identifies face
 - **Scikit-learn** (for feature extraction & classification)
 - **NumPy & Pandas** (for data handling)
 
-## 🚀 How to Run
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/ish013/Facial-Recognition-.git
-2.**Install dependencies:**
-  ```bash
-   pip install -r requirements.txt
-3. **Open the Jupyter Notebook:**
-  ```bash
-   jupyter notebook
-4. **Open and execute face-recognition.ipynb to recognize faces.**
+## 🚀 How to Run  
+1. **Clone this repository:** `git clone https://github.com/ish013/Facial-Recognition-.git`  
+2. **Install dependencies:** `pip install -r requirements.txt`  
+3. **Open the Jupyter Notebook:** `jupyter notebook`  
+4. **Open and execute face-recognition.ipynb to recognize faces.**  
+
