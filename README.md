@@ -23,7 +23,7 @@ This project is a **facial recognition system** that detects and identifies face
 2.**Install dependencies:**
   ```bash
    pip install -r requirements.txt
-3.**Open the Jupyter Notebook:**
+3. **Open the Jupyter Notebook:**
   ```bash
    jupyter notebook
-4.**Open and execute face-recognition.ipynb to recognize faces.**
+4. **Open and execute face-recognition.ipynb to recognize faces.**
