@@ -1,23 +1,25 @@
-##  M-, Movie Recommender System
+# 🖼️ Facial Recognition System
 
-This project is a **content-based movie recommender system** that suggests movies similar to the ones users like. It utilizes **NLP techniques** to analyze movie descripti>
+This project is a **facial recognition system** that detects and identifies faces using machine learning techniques. It utilizes **deep learning models** to accurately classify and recognize facial features.
 
-###  ~L Features
--  ~**Content-Based Filtering**** using TF-IDF and cosine similari
--  ~**Search by movie title**** and get top recommendatio
--  M**Implemented using Python, Pandas, Scikit-Learn**  *
--  M**Dataset:**:** 5,000 movies with metad  a
+## ✨ Features
+- 🏷️ **Face Detection** using OpenCV and deep learning models
+- 🧠 **Feature Extraction** using Convolutional Neural Networks (CNN)
+- 🔍 **Face Recognition** with high accuracy
+- 📊 **Trained on LFW Dataset** (13,000 labeled images)
+- 🚀 **Optimized Model with Hyperparameter Tuning**
 
-###  M- ️ Tech Stack
+## 🛠 Tech Stack
 - **Python**
-- **Pandas & NumPy**
-- **Scikit-learn** (for similarity computation)
-- **Jupyter Notebook**
+- **OpenCV** (for face detection)
+- **TensorFlow / Keras** (for deep learning)
+- **Scikit-learn** (for feature extraction & classification)
+- **NumPy & Pandas** (for data handling)
 
-###  ~@ How to Run
-1. Clone this repository:
+## 🚀 How to Run
+1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/face-recognition.git
+   git clone https://github.com/ish013/Facial-Recognition-.git
 2.**Install dependencies:**
   ```bash
    pip install -r requirements.txt
